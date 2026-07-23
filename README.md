@@ -6,7 +6,7 @@ Building intelligent software, scalable web applications, and AI-driven solution
 
 ---
 
-## 🧠** About Me**
+## 🧠 About Me
 
 - 💻 AI & Full-Stack Developer passionate about building intelligent and scalable software.
 - 🚀 Currently developing AI-powered solutions for traffic optimization, emergency response, and education.
@@ -17,7 +17,7 @@ Building intelligent software, scalable web applications, and AI-driven solution
 
 ---
 
-## 🛠** Tech Stack**
+## 🛠 Tech Stack
 
 ### 💻 Frontend
 React • Next.js • HTML5 • CSS3 • JavaScript • TypeScript • Tailwind CSS • Bootstrap • Vite
@@ -39,7 +39,7 @@ Git • GitHub • VS Code • Postman • Google Colab • Jupyter Notebook •
 
 ---
 
-## 🏆** Achievements**
+## 🏆 Achievements
 
 - 🚀 Selected for the NAIN 2.0 Innovation Program with the AI-Powered Accident Alert & Emergency Response System.
 - 🤖 Developed multiple AI, Machine Learning, and Full-Stack applications solving real-world problems.
@@ -49,7 +49,7 @@ Git • GitHub • VS Code • Postman • Google Colab • Jupyter Notebook •
 
 ---
 
-## 💼 **Experience**
+## 💼 Experience
 
 ### 👨‍💻 Computer Science Engineering Student
 
@@ -60,7 +60,7 @@ Git • GitHub • VS Code • Postman • Google Colab • Jupyter Notebook •
 
 ---
 
-## 🚀** Featured Projects**
+## 🚀Featured Projects
 
 🔹 ### [🚑 AI-Powered Accident Alert & Emergency Response System](https://github.com/vseetharama/Virajati_2026)
 
@@ -112,7 +112,7 @@ Git • GitHub • VS Code • Postman • Google Colab • Jupyter Notebook •
 
 ---
 
-## 🌍 **My Vision**
+## 🌍 My Vision
 
 > *"I aspire to build intelligent software that combines Artificial Intelligence, scalable system design, and modern web technologies to solve real-world challenges and create meaningful impact."*
 
