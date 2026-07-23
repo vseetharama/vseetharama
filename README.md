@@ -118,7 +118,7 @@ Git • GitHub • VS Code • Postman • Google Colab • Jupyter Notebook •
 
 ---
 
-## 🌐** Connect With Me**
+**## 🌐 Connect With Me**
 
 [![🌐 Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vseetharamamugeraya/)
