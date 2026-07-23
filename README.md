@@ -72,8 +72,8 @@ Git • GitHub • VS Code • Postman • Google Colab • Jupyter Notebook •
 
 ---
 
-**🔹 [ AI-Based Smart Traffic Congestion Optimization System](https://github.com/vseetharama/-AI-Based-Smart-Traffic-Congestion-Optimization-System)
-**
+**🔹 [ AI-Based Smart Traffic Congestion Optimization System](https://github.com/vseetharama/-AI-Based-Smart-Traffic-Congestion-Optimization-System)**
+
 *AI-Based Smart Traffic Management System*
 
 - Developed an AI-based traffic congestion prediction and signal optimization system.
