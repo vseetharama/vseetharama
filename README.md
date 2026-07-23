@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 👋, I'm V Seetharama Mugeraya
 
-<!--
-**vseetharama/vseetharama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Full-Stack Developer | Computer Science Engineering Student
 
-Here are some ideas to get you started:
+Building intelligent software, scalable web applications, and AI-driven solutions that solve real-world problems through innovation and modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💫 About Me
+
+- 🎓 Computer Science Engineering student passionate about Artificial Intelligence, Machine Learning, and Full-Stack Development.
+- 💡 I enjoy building AI-powered systems that solve real-world challenges in traffic management, emergency response, education, and digital transformation.
+- 🚀 Currently developing intelligent applications using React, FastAPI, Node.js, Flask, Python, MongoDB, and modern AI technologies.
+- 🌱 Continuously learning Deep Learning, Computer Vision, Cloud Computing, and System Design.
+- 🤝 Open to internships, collaborations, and open-source contributions.
