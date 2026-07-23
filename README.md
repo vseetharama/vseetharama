@@ -62,7 +62,7 @@ Git • GitHub • VS Code • Postman • Google Colab • Jupyter Notebook •
 
 ## 🚀Featured Projects
 
-🔹  [🚑 AI-Powered Accident Alert & Emergency Response System](https://github.com/vseetharama/Virajati_2026)
+**🔹  [ AI-Powered Accident Alert & Emergency Response System](https://github.com/vseetharama/Virajati_2026)**
 
 *AI-Powered Emergency Response Platform*
 
@@ -72,8 +72,8 @@ Git • GitHub • VS Code • Postman • Google Colab • Jupyter Notebook •
 
 ---
 
-🔹 [🚦 AI-Based Smart Traffic Congestion Optimization System](https://github.com/vseetharama/-AI-Based-Smart-Traffic-Congestion-Optimization-System)
-
+**🔹 [ AI-Based Smart Traffic Congestion Optimization System](https://github.com/vseetharama/-AI-Based-Smart-Traffic-Congestion-Optimization-System)
+**
 *AI-Based Smart Traffic Management System*
 
 - Developed an AI-based traffic congestion prediction and signal optimization system.
@@ -82,7 +82,7 @@ Git • GitHub • VS Code • Postman • Google Colab • Jupyter Notebook •
 
 ---
 
-🔹  [📚 ExamForge AI – RAG Question Paper Generator](https://github.com/vseetharama/SmartKCET-Prep)
+**🔹  [ ExamForge AI – RAG Question Paper Generator](https://github.com/vseetharama/SmartKCET-Prep)**
 
 *AI-Powered Question Paper Generation Platform*
 
@@ -92,8 +92,8 @@ Git • GitHub • VS Code • Postman • Google Colab • Jupyter Notebook •
 
 ---
 
-🔹 [👮 Police Crime Record Management System](https://github.com/vseetharama/CriminalRecordManagement)
-
+**🔹 [ Police Crime Record Management System](https://github.com/vseetharama/CriminalRecordManagement)
+**
 *Secure Criminal Record Management Platform*
 
 - Developed a secure web application for managing police and criminal records.
@@ -102,8 +102,8 @@ Git • GitHub • VS Code • Postman • Google Colab • Jupyter Notebook •
 
 ---
 
-🔹 [🍽️ SmartCanteen](https://github.com/vseetharama/SmartCanteen)
-
+**🔹 [ SmartCanteen](https://github.com/vseetharama/SmartCanteen)
+**
 *Digital Canteen Management System*
 
 - Built a responsive food ordering and canteen management platform.
