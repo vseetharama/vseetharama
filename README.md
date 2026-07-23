@@ -4,7 +4,7 @@
 
 Building intelligent software, scalable web applications, and AI-driven solutions that solve real-world problems through innovation and modern technologies.
 
-## 💫 About Me
+## 🧠 About Me
 
 - 🎓 Computer Science Engineering student passionate about Artificial Intelligence, Machine Learning, and Full-Stack Development.
 - 💡 I enjoy building AI-powered systems that solve real-world challenges in traffic management, emergency response, education, and digital transformation.
