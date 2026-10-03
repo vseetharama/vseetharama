@@ -118,7 +118,7 @@ Git • GitHub • VS Code • Postman • Google Colab • Jupyter Notebook •
 
 ## 🌐 Connect With Me
 
-[![🌐 Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://portfolio-v-seetharama-mugeraya.vercel.app/])
+[![🌐 Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-v-seetharama-mugeraya.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vseetharamamugeraya/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vseetharama)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/seetharamamugerayav)
